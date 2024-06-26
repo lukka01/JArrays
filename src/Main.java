@@ -9,7 +9,10 @@ public class Main {
         int[] inArr = invert(arr);
         print(inArr);
 
+
 //kk
+
+
 
 
     }
